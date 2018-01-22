@@ -4,4 +4,5 @@
 1. 仅改动了TicketFragment#isNFCEnabled()方法，其他均未作改动；
 2. 如有问题，请卸载并使用官方APP；
 3. 使用apktool、dex2jar-2.0（or jadx）、keytool等通用工具完成;
-4. 修改后的APK下载地址：https://pan.baidu.com/s/1ht5dwlI
+4. 二次打包参考：https://wangchao.im/2016/01/20/android-secondary-build/  感谢！！
+5. 修改后的APK下载地址：https://pan.baidu.com/s/1ht5dwlI
